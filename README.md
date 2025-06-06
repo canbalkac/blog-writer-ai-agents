@@ -18,12 +18,6 @@
 
 ---
 
-## 🖼️ Demo Preview
-
-![GenFlow Studio Screenshot](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
-
----
-
 ## 🚀 Tech Stack
 
 ### Frontend
