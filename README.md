@@ -1,6 +1,6 @@
 # GenFlow Studio
 
-**GenFlow Studio** is an AI-powered autonomous content generation pipeline. It simulates a multi-agent system where each agent handles a specific task — from research to writing, reviewing, and visual design — to produce publish-ready content based on a given topic.
+**GenFlow Studio** is an AI-powered autonomous content generation pipeline. It simulates a multi-agent system where each agent handles a specific task from research to writing, reviewing, and visual design to produce publish-ready content based on a given topic.
 
 > Built with Next.js + FastAPI + OpenAI-compatible models  
 > Designed for modern content teams and AI infrastructure explorers.
@@ -31,25 +31,6 @@
 - [FastAPI](https://fastapi.tiangolo.com)
 - Python 3.13+
 - OpenAI-compatible SDKs (OpenRouter.ai / Local LLMs)
-
----
-
-## 📦 Project Structure
-
-```
-genflow-backend/
-│
-├── app/
-│   ├── main.py                 # FastAPI entry point
-│   ├── config.py               # API keys & env
-│   └── agents/
-│       ├── research_agent.py   # Wikipedia summarizer
-│       ├── writer_agent.py     # LLM writer
-│       ├── reviewer_agent.py   # Content critic
-│       └── designer_agent.py   # Image generator
-│
-└── requirements.txt
-```
 
 ---
 
